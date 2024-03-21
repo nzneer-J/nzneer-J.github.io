@@ -1,5 +1,6 @@
 {
   "name": "mongodb-blog",
+  "homepage": "https://nzneer-j.github.io/mongodb-blog/mongodb-blog",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
